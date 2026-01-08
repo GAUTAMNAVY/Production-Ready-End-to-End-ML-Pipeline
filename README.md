@@ -250,6 +250,4 @@ To use this project, follow these steps:
      | :--: |
      | Image 10: Web App Tab _Exsting (by index)_ and prediction result |  
 
-## License  
 
-This project is released under the MIT License. You are free to use, modify, and distribute this code as you wish.
